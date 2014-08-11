@@ -7,7 +7,7 @@ import android.widget.Toast;
 
 public class MainActivity extends Activity {
 
-	private Effectstype effect;//第二次提交
+	private Effectstype effect;//push at master
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
